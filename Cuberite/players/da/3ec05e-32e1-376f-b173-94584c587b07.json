@@ -1,0 +1,961 @@
+{
+	"SpawnForced" : false,
+	"SpawnWorld" : "world",
+	"SpawnX" : -1117,
+	"SpawnY" : 84,
+	"SpawnZ" : -468,
+	"air" : 300,
+	"enchantmentSeed" : 3087613829,
+	"enderchestinventory" : 
+	[
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		}
+	],
+	"equippedItemSlot" : 0,
+	"food" : 5,
+	"foodExhaustion" : 1.5611502503392958,
+	"foodSaturation" : 0.0,
+	"foodTickTimer" : 0,
+	"gamemode" : -1,
+	"health" : 6.1885700225830078,
+	"inventory" : 
+	[
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"Count" : 1,
+			"Health" : 50,
+			"ID" : 310,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 5,
+			"ID" : 311,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 5,
+			"ID" : 312,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 1,
+			"ID" : 313,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 2,
+			"Health" : 0,
+			"ID" : 287,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 349,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 410,
+			"RepairCost" : 0
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"Count" : 12,
+			"Health" : 0,
+			"ID" : 295,
+			"RepairCost" : 0
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"ID" : -1
+		},
+		{
+			"Count" : 1,
+			"Health" : 11,
+			"ID" : 276,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 220,
+			"ID" : 279,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 116,
+			"ID" : 278,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 4,
+			"Health" : 0,
+			"ID" : 280,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 18,
+			"Health" : 0,
+			"ID" : 17,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 4,
+			"Health" : 4,
+			"ID" : 175,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 2,
+			"Health" : 1,
+			"ID" : 175,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 50,
+			"Health" : 0,
+			"ID" : 3,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 4,
+			"Health" : 0,
+			"ID" : 6,
+			"RepairCost" : 0
+		},
+		{
+			"ID" : -1
+		}
+	],
+	"isflying" : false,
+	"knownItems" : 
+	[
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 3,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 4,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 5,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 3,
+			"ID" : 5,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 6,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 3,
+			"ID" : 6,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 12,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 15,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 17,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 3,
+			"ID" : 17,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 20,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 24,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 35,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 50,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 54,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 57,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 58,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 61,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 65,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 67,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 85,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 107,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 126,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 136,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 2,
+			"ID" : 145,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 1,
+			"ID" : 175,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 4,
+			"ID" : 175,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 190,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 260,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 262,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 263,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 1,
+			"ID" : 263,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 264,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 265,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 268,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 20,
+			"ID" : 268,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 31,
+			"ID" : 268,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 46,
+			"ID" : 268,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 53,
+			"ID" : 268,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 270,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 1,
+			"ID" : 270,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 26,
+			"ID" : 270,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 271,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 18,
+			"ID" : 271,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 22,
+			"ID" : 271,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 38,
+			"ID" : 271,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 276,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 2,
+			"ID" : 276,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 56,
+			"ID" : 276,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 277,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 278,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 104,
+			"ID" : 278,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 279,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 41,
+			"ID" : 279,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 63,
+			"ID" : 279,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 124,
+			"ID" : 279,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 280,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 287,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 288,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 289,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 290,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 6,
+			"ID" : 290,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 14,
+			"ID" : 290,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 292,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 34,
+			"ID" : 292,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 295,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 296,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 297,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 310,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 47,
+			"ID" : 310,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 311,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 2,
+			"ID" : 311,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 312,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 2,
+			"ID" : 312,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 313,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 319,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 325,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 334,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 338,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 346,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 6,
+			"ID" : 346,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 349,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 15,
+			"ID" : 351,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 352,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 355,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 363,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 364,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 365,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 367,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 375,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 410,
+			"RepairCost" : 0
+		},
+		{
+			"Count" : 1,
+			"Health" : 0,
+			"ID" : 423,
+			"RepairCost" : 0
+		}
+	],
+	"knownRecipes" : 
+	[
+		"chest",
+		"furnace",
+		"jungle_planks",
+		"oak_planks",
+		"stick",
+		"torch",
+		"crafting_table",
+		"bone_block",
+		"coal_block",
+		"diamond_block",
+		"hay_block",
+		"iron_block",
+		"sandstone",
+		"smooth_sandstone",
+		"tnt",
+		"cobblestone_slab",
+		"jungle_slab",
+		"oak_slab",
+		"stone_stairs",
+		"jungle_stairs",
+		"oak_stairs",
+		"diamond_axe",
+		"iron_axe",
+		"stone_axe",
+		"wooden_axe",
+		"diamond_pickaxe",
+		"iron_pickaxe",
+		"stone_pickaxe",
+		"wooden_pickaxe",
+		"diamond_shovel",
+		"iron_shovel",
+		"stone_shovel",
+		"wooden_shovel",
+		"diamond_hoe",
+		"iron_hoe",
+		"stone_hoe",
+		"wooden_hoe",
+		"bucket",
+		"fishing_rod",
+		"shears",
+		"bow",
+		"diamond_sword",
+		"iron_sword",
+		"stone_sword",
+		"wooden_sword",
+		"diamond_helmet",
+		"iron_helmet",
+		"leather_helmet",
+		"diamond_chestplate",
+		"iron_chestplate",
+		"leather_chestplate",
+		"diamond_leggings",
+		"iron_leggings",
+		"leather_leggings",
+		"diamond_boots",
+		"iron_boots",
+		"leather_boots",
+		"shield",
+		"jungle_boat",
+		"minecart",
+		"oak_boat",
+		"rail",
+		"heavy_weighted_pressure_plate",
+		"hopper",
+		"iron_door",
+		"iron_trapdoor",
+		"jukebox",
+		"jungle_door",
+		"lever",
+		"oak_trapdoor",
+		"tripwire_hook",
+		"oak_button",
+		"bowl",
+		"bread",
+		"sugar",
+		"diamond",
+		"cobblestone_wall",
+		"oak_fence",
+		"oak_fence_gate",
+		"glass_pane",
+		"iron_bars",
+		"iron_nugget",
+		"item_frame",
+		"jungle_fence",
+		"jungle_fence_gate",
+		"ladder",
+		"painting",
+		"paper",
+		"oak_sign",
+		"white_banner",
+		"white_carpet",
+		"white_stained_glass",
+		"cauldron",
+		"glass_bottle"
+	],
+	"lastknownname" : "Im_kinda_trash",
+	"position" : 
+	[
+		-1117.5,
+		84.0,
+		-466.5
+	],
+	"rotation" : 
+	[
+		45.702857971191406,
+		21.552909851074219,
+		0.0
+	],
+	"world" : "world",
+	"xpCurrent" : 48,
+	"xpTotal" : 48
+}

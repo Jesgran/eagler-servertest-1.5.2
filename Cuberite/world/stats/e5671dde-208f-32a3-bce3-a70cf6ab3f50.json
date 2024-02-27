@@ -1,0 +1,33 @@
+{
+	"DataVersion" : 2566,
+	"stats" : 
+	{
+		"custom" : 
+		{
+			"climb_one_cm" : 82,
+			"crouch_one_cm" : 1948,
+			"cuberite:achievement.buildHoe" : 1,
+			"cuberite:achievement.buildSword" : 1,
+			"cuberite:achievement.buildWorkBench" : 2,
+			"cuberite:achievement.killEnemy" : 14,
+			"cuberite:achievement.mineWood" : 25,
+			"cuberite:achievement.openInventory" : 15,
+			"damage_dealt" : 2505,
+			"damage_taken" : 690,
+			"deaths" : 2,
+			"drop" : 3,
+			"fall_one_cm" : 56710,
+			"interact_with_crafting_table" : 14,
+			"leave_game" : 7,
+			"mob_kills" : 15,
+			"open_chest" : 21,
+			"play_one_minute" : 38750,
+			"sneak_time" : 1011,
+			"sprint_one_cm" : 108283,
+			"time_since_death" : 5137,
+			"walk_on_water_one_cm" : 19019,
+			"walk_one_cm" : 128847,
+			"walk_under_water_one_cm" : 8901
+		}
+	}
+}

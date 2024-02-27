@@ -1,0 +1,27 @@
+{
+	"DataVersion" : 2566,
+	"stats" : 
+	{
+		"custom" : 
+		{
+			"climb_one_cm" : 267,
+			"cuberite:achievement.mineWood" : 47,
+			"cuberite:achievement.openInventory" : 11,
+			"damage_dealt" : 1710,
+			"damage_taken" : 440,
+			"deaths" : 1,
+			"drop" : 16,
+			"fall_one_cm" : 60889,
+			"interact_with_crafting_table" : 14,
+			"interact_with_furnace" : 27,
+			"leave_game" : 7,
+			"mob_kills" : 11,
+			"play_one_minute" : 57548,
+			"sprint_one_cm" : 37706,
+			"time_since_death" : 47955,
+			"walk_on_water_one_cm" : 33213,
+			"walk_one_cm" : 154264,
+			"walk_under_water_one_cm" : 5839
+		}
+	}
+}

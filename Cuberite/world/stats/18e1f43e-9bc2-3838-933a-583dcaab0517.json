@@ -1,0 +1,22 @@
+{
+	"DataVersion" : 2566,
+	"stats" : 
+	{
+		"custom" : 
+		{
+			"damage_dealt" : 165,
+			"damage_taken" : 540,
+			"deaths" : 2,
+			"drop" : 1,
+			"fall_one_cm" : 5628,
+			"leave_game" : 2,
+			"mob_kills" : 1,
+			"play_one_minute" : 18791,
+			"sprint_one_cm" : 289,
+			"time_since_death" : 6156,
+			"walk_on_water_one_cm" : 21776,
+			"walk_one_cm" : 40343,
+			"walk_under_water_one_cm" : 26059
+		}
+	}
+}

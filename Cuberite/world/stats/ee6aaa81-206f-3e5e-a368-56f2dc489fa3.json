@@ -1,0 +1,27 @@
+{
+	"DataVersion" : 2566,
+	"stats" : 
+	{
+		"custom" : 
+		{
+			"boat_one_cm" : 971461,
+			"climb_one_cm" : 96,
+			"crouch_one_cm" : 4691,
+			"cuberite:achievement.openInventory" : 1,
+			"damage_dealt" : 15,
+			"damage_taken" : 910,
+			"deaths" : 3,
+			"drop" : 1,
+			"fall_one_cm" : 39516,
+			"fly_one_cm" : 180148,
+			"leave_game" : 3,
+			"play_one_minute" : 30329,
+			"sneak_time" : 1326,
+			"sprint_one_cm" : 19131,
+			"time_since_death" : 4248,
+			"walk_on_water_one_cm" : 85950,
+			"walk_one_cm" : 80665,
+			"walk_under_water_one_cm" : 12902
+		}
+	}
+}

@@ -1,0 +1,178 @@
+     [16:18:39] --- Started Log ---
+     [16:18:39] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #378)
+     [16:18:39] from commit eda440e0db028587975c867dbacb513d80df4dca built at: Mon Aug 21 11:55:04 UTC 2023
+     [16:18:39] Creating new server instance...
+     [16:18:39] Reading server config...
+     [16:18:39] Starting server...
+Info [16:18:39] Compatible clients: 1.8.x-1.14.4
+Warn [16:18:39] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [16:18:39] Loaded 789 crafting recipes
+     [16:18:39] Loaded 1.12.2 380 recipe book
+Warn [16:18:39] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [16:18:39] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [16:18:39] Loaded 67 furnace recipes and 66 fuels
+     [16:18:39] Loaded 49 brewing recipes
+Warn [16:18:40] Failed to load scoreboard from "world/data/scoreboard.dat": basic_ios::clear: iostream error
+Warn [16:18:40] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [16:18:40] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [16:18:40] Failed to load scoreboard from "world_nether/data/scoreboard.dat": basic_ios::clear: iostream error
+Warn [16:18:40] Failed to load scoreboard from "world_the_end/data/scoreboard.dat": basic_ios::clear: iostream error
+     [16:18:40] -- Loading Plugins --
+     [16:18:40] [Core] Initialised!
+     [16:18:40] [ChatLog] Initialized ChatLog v.3
+     [16:18:40] -- Loaded 2 Plugins --
+     [16:18:41] Preparing spawn (world): 2.00% (8/400; 7.68 chunks / sec)
+     [16:18:42] Preparing spawn (world): 13.75% (55/400; 46.77 chunks / sec)
+     [16:18:44] Preparing spawn (world): 36.75% (147/400; 73.25 chunks / sec)
+     [16:18:45] Preparing spawn (world): 60.75% (243/400; 93.75 chunks / sec)
+Warn [16:18:45] World "world": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 61, 0}
+     [16:18:47] Preparing spawn (world_nether): 30.00% (120/400; 108.01 chunks / sec)
+     [16:18:48] Preparing spawn (world_nether): 60.50% (242/400; 97.83 chunks / sec)
+Warn [16:18:49] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 74, 0}
+     [16:18:49] Startup complete, took 9721ms!
+     [20:24:21] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [20:24:21] Player "ARX" (2ba60bb18c44384b938b3357e3ac833b) save or statistics file not found, resetting to defaults
+Info [20:24:21] Player ARX has joined the game
+Warn [20:24:21] AddEntity: Entity at 0x7ff520095f70 (cPlayer, ID 260) spawning in a non-existent chunk.
+Info [20:24:39] Player ARX has left the game
+     [00:58:00] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [00:58:00] Player Alfredo777 has joined the game
+Warn [00:58:00] AddEntity: Entity at 0x7ff52008b570 (cPlayer, ID 331) spawning in a non-existent chunk.
+Warn [00:59:01] Clicked: Wrong window ID (exp 10, got 0) received from "Alfredo777"; ignoring click.
+Warn [00:59:13] *** Window lost sync at item 14 in SlotArea with 27 items ***
+Warn [00:59:13] My item:    diamond:0 * 2
+Warn [00:59:13] Their item: -1:0:0 * 0
+Warn [00:59:13] *** Window lost sync at item 14 in SlotArea with 27 items ***
+Warn [00:59:13] My item:    -1:0:0 * 0
+Warn [00:59:13] Their item: diamond:0 * 2
+Warn [00:59:14] *** Window lost sync at item 22 in SlotArea with 27 items ***
+Warn [00:59:14] My item:    -1:0:0 * 0
+Warn [00:59:14] Their item: diamond:0 * 4
+Warn [00:59:15] *** Window lost sync at item 22 in SlotArea with 27 items ***
+Warn [00:59:15] My item:    diamond:0 * 2
+Warn [00:59:15] Their item: -1:0:0 * 0
+Warn [00:59:15] *** Window lost sync at item 22 in SlotArea with 27 items ***
+Warn [00:59:15] My item:    -1:0:0 * 0
+Warn [00:59:15] Their item: diamond:0 * 4
+Warn [00:59:23] *** Window lost sync at item 13 in SlotArea with 27 items ***
+Warn [00:59:23] My item:    -1:0:0 * 0
+Warn [00:59:23] Their item: diamond:0 * 26
+Warn [00:59:27] DistributeItemToSlots: Distributing less items (0) than slots (22)
+Warn [00:59:29] *** Window lost sync at item 23 in SlotArea with 27 items ***
+Warn [00:59:29] My item:    -1:0:0 * 0
+Warn [00:59:29] Their item: diamond:0 * 1
+Warn [00:59:30] DistributeItemToSlots: Distributing less items (0) than slots (3)
+Warn [00:59:31] DistributeItemToSlots: Distributing less items (0) than slots (1)
+Warn [00:59:31] *** Window lost sync at item 12 in SlotArea with 27 items ***
+Warn [00:59:31] My item:    diamond:0 * 10
+Warn [00:59:31] Their item: -1:0:0 * 0
+Warn [00:59:31] *** Window lost sync at item 14 in SlotArea with 27 items ***
+Warn [00:59:31] My item:    -1:0:0 * 0
+Warn [00:59:31] Their item: diamond:0 * 13
+Warn [00:59:44] DistributeItemToSlots: Distributing less items (0) than slots (3)
+Warn [00:59:45] DistributeItemToSlots: Distributing less items (0) than slots (2)
+Warn [00:59:48] DistributeItemToSlots: Distributing less items (1) than slots (2)
+Warn [00:59:48] DistributeItemToSlots: Distributing less items (0) than slots (1)
+Warn [00:59:53] *** Window lost sync at item 13 in SlotArea with 27 items ***
+Warn [00:59:53] My item:    diamond:0 * 3
+Warn [00:59:53] Their item: -1:0:0 * 0
+Warn [00:59:53] *** Window lost sync at item 13 in SlotArea with 27 items ***
+Warn [00:59:53] My item:    -1:0:0 * 0
+Warn [00:59:53] Their item: diamond:0 * 3
+Warn [00:59:54] *** Window lost sync at item 15 in SlotArea with 27 items ***
+Warn [00:59:54] My item:    -1:0:0 * 0
+Warn [00:59:54] Their item: diamond:0 * 6
+Warn [00:59:54] *** Window lost sync at item 15 in SlotArea with 27 items ***
+Warn [00:59:54] My item:    diamond:0 * 1
+Warn [00:59:54] Their item: -1:0:0 * 0
+Warn [00:59:54] *** Window lost sync at item 15 in SlotArea with 27 items ***
+Warn [00:59:54] My item:    -1:0:0 * 0
+Warn [00:59:54] Their item: diamond:0 * 6
+Warn [01:00:01] DistributeItemToSlots: Distributing less items (0) than slots (5)
+Warn [01:00:10] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:10] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:11] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:14] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:15] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:18] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:18] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:19] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:22] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:22] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:23] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:32] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:33] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:33] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:42] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:42] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:44] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:45] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:45] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:46] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:51] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:00:52] Clicked: Wrong window ID (exp 11, got 0) received from "Alfredo777"; ignoring click.
+Warn [01:01:07] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:08] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:10] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:13] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:13] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:13] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:13] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:13] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:13] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:13] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:13] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:13] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:13] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:14] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:14] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:16] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:16] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:16] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:17] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:17] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:17] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:19] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:19] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:19] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:19] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:19] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:19] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:21] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:21] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:22] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:22] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:22] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:22] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:23] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:25] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:26] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:27] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:28] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:28] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:30] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:30] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:30] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:30] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:31] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:31] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:32] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:32] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:33] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:34] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:35] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:35] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:36] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:37] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:38] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:38] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:38] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:38] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:38] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:39] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:40] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Warn [01:01:41] Clicked: Wrong window ID (exp 12, got 11) received from "Alfredo777"; ignoring click.
+Info [01:02:56] Player Alfredo777 has left the game
+     [01:44:44] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [01:44:44] Player Alfredo777_ has joined the game
+Warn [01:44:44] AddEntity: Entity at 0x7ff52008eba0 (cPlayer, ID 373) spawning in a non-existent chunk.

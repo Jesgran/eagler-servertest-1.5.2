@@ -1,0 +1,33 @@
+{
+	"DataVersion" : 2566,
+	"stats" : 
+	{
+		"custom" : 
+		{
+			"animals_bred" : 1,
+			"boat_one_cm" : 345,
+			"crouch_one_cm" : 1065,
+			"cuberite:achievement.mineWood" : 7,
+			"cuberite:achievement.openInventory" : 150,
+			"damage_dealt" : 22738,
+			"damage_taken" : 2207,
+			"deaths" : 5,
+			"drop" : 178,
+			"fall_one_cm" : 174025,
+			"interact_with_crafting_table" : 26,
+			"interact_with_furnace" : 57,
+			"leave_game" : 25,
+			"mob_kills" : 110,
+			"open_chest" : 140,
+			"play_one_minute" : 386044,
+			"player_kills" : 2,
+			"sleep_in_bed" : 11,
+			"sneak_time" : 521,
+			"sprint_one_cm" : 210644,
+			"time_since_death" : 2288,
+			"walk_on_water_one_cm" : 158064,
+			"walk_one_cm" : 960615,
+			"walk_under_water_one_cm" : 35397
+		}
+	}
+}

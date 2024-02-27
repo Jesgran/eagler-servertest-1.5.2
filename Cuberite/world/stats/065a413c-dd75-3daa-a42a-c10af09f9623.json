@@ -1,0 +1,19 @@
+{
+	"DataVersion" : 2566,
+	"stats" : 
+	{
+		"custom" : 
+		{
+			"cuberite:achievement.openInventory" : 1,
+			"drop" : 0,
+			"fall_one_cm" : 1130,
+			"leave_game" : 1,
+			"play_one_minute" : 899,
+			"sprint_one_cm" : 2081,
+			"time_since_death" : 899,
+			"walk_on_water_one_cm" : 2699,
+			"walk_one_cm" : 4923,
+			"walk_under_water_one_cm" : 170
+		}
+	}
+}

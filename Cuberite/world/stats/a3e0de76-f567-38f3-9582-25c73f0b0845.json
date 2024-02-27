@@ -1,0 +1,45 @@
+{
+	"DataVersion" : 2566,
+	"stats" : 
+	{
+		"custom" : 
+		{
+			"boat_one_cm" : 1541589,
+			"climb_one_cm" : 4122,
+			"crouch_one_cm" : 26772,
+			"cuberite:achievement.acquireIron" : 12,
+			"cuberite:achievement.bookcase" : 25,
+			"cuberite:achievement.buildBetterPickaxe" : 3,
+			"cuberite:achievement.buildFurnace" : 2,
+			"cuberite:achievement.buildPickaxe" : 2,
+			"cuberite:achievement.buildSword" : 2,
+			"cuberite:achievement.buildWorkBench" : 3,
+			"cuberite:achievement.diamonds" : 213,
+			"cuberite:achievement.enchantments" : 1,
+			"cuberite:achievement.killCow" : 9,
+			"cuberite:achievement.killEnemy" : 86,
+			"cuberite:achievement.mineWood" : 276,
+			"cuberite:achievement.openInventory" : 535,
+			"cuberite:achievement.portal" : 1,
+			"damage_dealt" : 22894,
+			"damage_taken" : 6901,
+			"deaths" : 12,
+			"drop" : 238,
+			"fall_one_cm" : 598646,
+			"interact_with_crafting_table" : 73,
+			"interact_with_furnace" : 159,
+			"leave_game" : 179,
+			"mob_kills" : 135,
+			"open_chest" : 419,
+			"play_one_minute" : 715648,
+			"player_kills" : 1,
+			"sleep_in_bed" : 12,
+			"sneak_time" : 14202,
+			"sprint_one_cm" : 755856,
+			"time_since_death" : 11365,
+			"walk_on_water_one_cm" : 552808,
+			"walk_one_cm" : 2861580,
+			"walk_under_water_one_cm" : 175882
+		}
+	}
+}

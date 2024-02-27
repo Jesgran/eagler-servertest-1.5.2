@@ -1,0 +1,42 @@
+     [20:58:16] --- Started Log ---
+     [20:58:16] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #378)
+     [20:58:16] from commit eda440e0db028587975c867dbacb513d80df4dca built at: Mon Aug 21 11:55:04 UTC 2023
+     [20:58:16] Creating new server instance...
+     [20:58:16] Reading server config...
+     [20:58:16] Starting server...
+Info [20:58:16] Compatible clients: 1.8.x-1.14.4
+Warn [20:58:16] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [20:58:17] Loaded 789 crafting recipes
+     [20:58:17] Loaded 1.12.2 380 recipe book
+Warn [20:58:17] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [20:58:17] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [20:58:17] Loaded 67 furnace recipes and 66 fuels
+     [20:58:17] Loaded 49 brewing recipes
+Warn [20:58:17] Failed to load scoreboard from "world/data/scoreboard.dat": basic_ios::clear: iostream error
+Warn [20:58:17] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [20:58:17] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [20:58:17] Failed to load scoreboard from "world_nether/data/scoreboard.dat": basic_ios::clear: iostream error
+Warn [20:58:17] Failed to load scoreboard from "world_the_end/data/scoreboard.dat": basic_ios::clear: iostream error
+     [20:58:17] -- Loading Plugins --
+     [20:58:17] [Core] Initialised!
+     [20:58:17] [ChatLog] Initialized ChatLog v.3
+     [20:58:17] -- Loaded 2 Plugins --
+     [20:58:18] Preparing spawn (world): 5.25% (21/400; 21.00 chunks / sec)
+     [20:58:19] Preparing spawn (world): 35.25% (141/400; 119.05 chunks / sec)
+     [20:58:20] Preparing spawn (world): 48.75% (195/400; 53.89 chunks / sec)
+     [20:58:21] Preparing spawn (world): 81.75% (327/400; 101.62 chunks / sec)
+Warn [20:58:21] World "world": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 61, 0}
+     [20:58:23] Preparing spawn (world_nether): 3.00% (12/400; 10.28 chunks / sec)
+     [20:58:24] Preparing spawn (world_nether): 14.50% (58/400; 44.88 chunks / sec)
+     [20:58:25] Preparing spawn (world_nether): 35.75% (143/400; 80.72 chunks / sec)
+     [20:58:26] Preparing spawn (world_nether): 68.25% (273/400; 121.95 chunks / sec)
+     [20:58:28] Preparing spawn (world_the_end): 59.50% (238/400; 238.00 chunks / sec)
+Warn [20:58:28] World "world_the_end": Did not find an acceptable spawnpoint. Generated a random spawnpoint position at {0, 74, 0}
+     [20:58:28] Startup complete, took 11707ms!
+     [21:04:15] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [21:04:15] Player sce has joined the game
+Warn [21:04:15] AddEntity: Entity at 0x7f867402c5d0 (cPlayer, ID 260) spawning in a non-existent chunk.
+Info [21:05:59] Player sce has left the game
+     [21:06:10] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [21:06:10] Player sce has joined the game
+Warn [21:06:14] MoveEntityToNewChunk: Entity at 0x7f8674034c90 (cPlayer, ID 333) moving to a non-existent chunk.

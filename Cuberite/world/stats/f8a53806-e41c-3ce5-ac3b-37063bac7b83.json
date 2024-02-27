@@ -1,0 +1,30 @@
+{
+	"DataVersion" : 2566,
+	"stats" : 
+	{
+		"custom" : 
+		{
+			"climb_one_cm" : 29241,
+			"crouch_one_cm" : 4897,
+			"cuberite:achievement.openInventory" : 41,
+			"damage_dealt" : 800,
+			"damage_taken" : 1872,
+			"deaths" : 4,
+			"drop" : 47,
+			"fall_one_cm" : 154787,
+			"interact_with_crafting_table" : 26,
+			"interact_with_furnace" : 60,
+			"leave_game" : 19,
+			"mob_kills" : 6,
+			"open_chest" : 144,
+			"play_one_minute" : 282526,
+			"sleep_in_bed" : 9,
+			"sneak_time" : 1645,
+			"sprint_one_cm" : 64597,
+			"time_since_death" : 12700,
+			"walk_on_water_one_cm" : 73382,
+			"walk_one_cm" : 699199,
+			"walk_under_water_one_cm" : 9969
+		}
+	}
+}

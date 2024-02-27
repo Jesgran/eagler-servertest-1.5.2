@@ -1,0 +1,20 @@
+{
+	"DataVersion" : 2566,
+	"stats" : 
+	{
+		"custom" : 
+		{
+			"crouch_one_cm" : 58,
+			"drop" : 0,
+			"fall_one_cm" : 3812,
+			"leave_game" : 1,
+			"play_one_minute" : 1856,
+			"sneak_time" : 18,
+			"sprint_one_cm" : 894,
+			"time_since_death" : 1856,
+			"walk_on_water_one_cm" : 2334,
+			"walk_one_cm" : 12425,
+			"walk_under_water_one_cm" : 793
+		}
+	}
+}
